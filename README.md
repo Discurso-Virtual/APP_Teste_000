@@ -1,10 +1,10 @@
 # ReadMe
 
- Para começar fazer o download do MySQL installer community, sendo a versão mais recente de momento a 8.0.19 
+ Para começar fazer o download do [MySQL installer community](https://dev.mysql.com/downloads/installer/), sendo a versão mais recente de momento a 8.0.19 
 
  De seguida instalar o MySQL Server e o MySQL Workbench, ambos incluidos no MySQL installer acima referido
  
- Instalar Apache 2.x, depois de instalar mudar a pasta onde o Apache irá procurar por sites, por predefinição a pasta selecionada é a 
+ Instalar [Apache](http://httpd.apache.org/download.cgi#apache24) 2.x, depois de instalar mudar a pasta onde o Apache irá procurar por sites, por predefinição a pasta selecionada é a 
 **htdocs**, alterar para uma pasta com o nome **sites** criada pelo utlizador dentro do disco local C:.
  
  Para efetuar essa alteração terá de abrir o ficheiro **httpd.conf**, este ficheiro encontra-se em _Apache24\conf_, num bloco de notas e alterar a linha de código:
